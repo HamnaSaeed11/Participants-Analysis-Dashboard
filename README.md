@@ -6,9 +6,6 @@ The **Participants Analysis Dashboard** is an interactive data visualization pro
 
 The dashboard provides meaningful insights into participant distribution by age group, gender, school, county, and municipality. It enables users to explore demographic patterns and understand changes in participation over time through interactive filters and visualizations.
 
-## Dashboard Preview
-
-![Participants Analysis Dashboard](Participants-Analysis-Dashboard.png)
 
 ## Key Features
 
@@ -36,7 +33,6 @@ The dashboard provides meaningful insights into participant distribution by age 
 - Data Analysis
 - Interactive Dashboard Design
 
-*Update this section if additional tools or technologies were used.*
 
 ## Project Objectives
 
@@ -53,9 +49,6 @@ The dashboard provides meaningful insights into participant distribution by age 
 2. Open the dashboard file using the relevant visualization software.
 3. Explore the visualizations using the available interactive filters.
 
-## Data Privacy
-
-Please ensure that any datasets shared publicly are anonymized and do not contain personally identifiable participant information.
 
 ## Author
 
@@ -64,5 +57,3 @@ Please ensure that any datasets shared publicly are anonymized and do not contai
 Data Analytics | Business Intelligence | Data Visualization
 
 ---
-
-*This project demonstrates practical skills in data analysis, demographic reporting, and interactive dashboard development.*
