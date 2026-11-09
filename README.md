@@ -8,7 +8,7 @@ The dashboard provides meaningful insights into participant distribution by age 
 
 ## Dashboard Preview
 
-![Participants Analysis Dashboard](images/participants-analysis-dashboard.png)
+![Participants Analysis Dashboard](participants-analysis-dashboard.png)
 
 ## Key Features
 
