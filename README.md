@@ -4,7 +4,7 @@
 
 The **Participants Analysis Dashboard** is an interactive data visualization project designed to analyze participant demographics, enrollment trends, and study-hour patterns across different years.
 
-The dashboard provides meaningful insights into participant distribution by age group, gender, school, country, county, and municipality. It enables users to explore demographic patterns and understand changes in participation over time through interactive filters and visualizations.
+The dashboard provides meaningful insights into participant distribution by age group, gender, school, county, and municipality. It enables users to explore demographic patterns and understand changes in participation over time through interactive filters and visualizations.
 
 ## Dashboard Preview
 
